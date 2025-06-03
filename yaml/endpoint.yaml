@@ -1,0 +1,2 @@
+base_url: https://sandbox.api.video
+auth_path: /auth/api-key
